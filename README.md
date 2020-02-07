@@ -1,2 +1,0 @@
-# ImpBoss
-Impossible Bosses
