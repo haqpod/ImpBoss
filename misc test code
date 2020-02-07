@@ -1,0 +1,11 @@
+  // attempt bot edge canvas and top stops player
+
+if (transform.position.y bottomScreenEdge)
+        {
+            transform.position = new Vector2(bottomScreenEdge, transform.position.x);
+        }
+        if (transform.position.y > topScreenEdge)
+        {
+            transform.position = new Vector2(topScreenEdge, transform.position.x);
+        }
+
